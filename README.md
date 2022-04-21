@@ -19,7 +19,7 @@ The following Pinout was used to connect the TFT display:
 ili9341 Pin -	Raspberry Pi Pin
  * Vcc 		   - 3V3 Vcc
  * GND 		   - GND
- * CS 		   - GPIO8 (CE0)(26)
+ * CS 		   - GPIO26 (CE0)
  * Reset 		 - GPIO25
  * DC 		   - GPIO24
  * SDI(MOSI) -	MOSI (SPI0)

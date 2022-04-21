@@ -12,6 +12,7 @@ The following GitHub project was used to display the images on the TFT at a fast
 
 The following GitHub project was used to read the touchscreen: https://github.com/BehindTheSciences/ili9341_SPI_TouchScreen_LCD_Raspberry-Pi. lib_tft24T.py is used in the final design, and BTS-ili9341-touch-calibration.py was used as a reference of how to read the touch inputs. 
 
+A Hall Effect Sensor was used to read when a rotation of the wheel occurs.
 
 The following Pinout was used to connect the TFT display:
 

@@ -16,18 +16,18 @@ The following GitHub project was used to read the touchscreen: https://github.co
 The following Pinout was used to connect the TFT display:
 
 ili9341 Pin 	Raspberry Pi Pin
-Vcc 		3V3 Vcc
-GND 		GND
-CS 		GPIO8 (CE0)(26)
-Reset 		GPIO25
-DC 		GPIO24
-SDI(MOSI) 	MOSI (SPI0)
-SCLK 		SPI0 SCLK
-LED 		GPIO18
-SDO(MISO) 	SPI0 MISO
-T_clk 		SPI1 SCLK 	/ GPIO21
-T_cs 		SPI1 CE0	/ GPIO16 
-T_DIN 		SPI1 MOSI	/ GPIO20
-T_DO 		SPI1 MISO	/ GPIO19
-T_IRQ 		GPIO26
+ * Vcc 		    3V3 Vcc
+ * GND 		    GND
+ * CS 		    GPIO8 (CE0)(26)
+ * Reset 		  GPIO25
+ * DC 		    GPIO24
+ * SDI(MOSI) 	MOSI (SPI0)
+ * SCLK 		  SPI0 SCLK
+ * LED 		    GPIO18
+ * SDO(MISO) 	SPI0 MISO
+ * T_clk 		  SPI1 SCLK 	/ GPIO21
+ * T_cs 		  SPI1 CE0	/ GPIO16 
+ * T_DIN 		  SPI1 MOSI	/ GPIO20
+ * T_DO 		  SPI1 MISO	/ GPIO19
+ * T_IRQ 		  GPIO26
 

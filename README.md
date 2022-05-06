@@ -1,7 +1,7 @@
 # Bike_Companion
 Tamagotchi style cycling companion
 
-This link is a video demo for the project mounted on a bike working: https://drive.google.com/file/d/1VmsGMd6pqK_ocevbRaUjgUpMdF6Lu_CX/view?usp=sharing
+This link is a video demo for the project mounted on a bike working: https://drive.google.com/file/d/1VmsGMd6pqK_ocevbRaUjgUpMdF6Lu_CX/view?usp=sharing <br />
 This link is a video demo showcasing the functionality of taking care of the virtual pet: https://drive.google.com/file/d/1Vv4tPw2W0WMJExdbpOJT0YONV9SoFaQd/view?usp=sharing
 
 Image_Shower.py is the python code that makes up the heart of the project. This version is made to be run on an IDE in Windows for testing.

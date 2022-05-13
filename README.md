@@ -35,3 +35,11 @@ ili9341 Pin -	Raspberry Pi Pin
  * T_DO 		 - SPI1 MISO	/ GPIO19
  * T_IRQ 		 - GPIO26
 
+Other wires were also necessary, and they are listed as follows:
+ * Power Switch on - SCC / GPIO5
+ * Power Switch gnd - GND
+ * Hall Effect Sensor Minus - GND
+ * Hall Effect Sensor Middle - 5v
+ * Hall Effect Sensor Signal - GPIO12
+ * PowerBoost 5v out - 5v
+ * PowerBoost Ground - GND

@@ -7,6 +7,8 @@ This link is a video demo showcasing the functionality of taking care of the vir
 Image_Shower.py is the python code that makes up the heart of the project. This version is made to be run on an IDE in Windows for testing.
 images.zip contains all images used in the project. This file is necessary, and it must be able to be seen by the Image_Shower.py program.
 
+run_game.py is an edited version of Image_Shower.py, which is complete and ready to be used on the pi. It has minor adjustments to a few parts, and it includes extra code developed for the touch screen and the hall effect sensor.
+
 A raspberry pi 2 was used for testing, and a raspberry pi zero was used as the final processor that runs all of the programs.
 
 An ili9341 TFT display with touchscreen was used as the display.
